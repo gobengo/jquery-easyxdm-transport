@@ -10,6 +10,7 @@ Because IE9 doesn't support all of CORS, and so sometimes the only way to make t
 
 1. Get an easyXDM.Rpc instance (outside the scope of this lib)
 2. Create an ajaxTransport
+    
     ```javascript
     var transport = require('jquery-easyxdm-transport').rpcRequest(rpc.request);
     ```
