@@ -1,0 +1,23 @@
+{
+  "name": "jquery-easyxdm-transport-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify-dev-middleware": "0.0.6",
+    "cors": "^2.5.2",
+    "easyxdm": "^2.4.19-pre.1",
+    "express": "^4.10.3",
+    "jquery": "^2.1.1",
+    "livefyre-easyxdm": "0.0.0",
+    "morgan": "^1.5.0",
+    "portfinder": "^0.2.1",
+    "serve-static": "^1.7.1",
+    "superagent": "^0.21.0"
+  }
+}
